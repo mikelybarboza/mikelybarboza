@@ -24,3 +24,6 @@
   <a href="https://www.linkedin.com/in/mikely-barboza-147920201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/mikelybarboza/mikelybarboza/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+  ##
+  <img width="1000" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif">
