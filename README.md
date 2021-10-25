@@ -26,4 +26,4 @@
 </div>
 
   ##
-  <img align="center" alt="Mike-gif"  height="300" width="500" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
+  <img align="center" alt="Mike-gif"  height="300" width="1000" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
