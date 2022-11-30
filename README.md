@@ -1,4 +1,4 @@
-<h1 align="center">Olá Mundo! Eu sou Mikely Barboza ✌</h1> 
+<h1 align="center">Hello World! Eu sou Mikely Barboza ✌</h1> 
   <br>
 <div align="center">
   <a href="https://github.com/mikelybarboza">
@@ -15,21 +15,21 @@
   <br>
  <h2> Tecnologias que estou aprendendo 👨🏻‍💻</h2>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Mikely-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mikely-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mikely-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mikely-Vue" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Mikely-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mikely-Django" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img align="center" alt="Mikely-MongoDB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Mikely-MySQL" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Mikely-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mikely-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mikely-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mikely-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mikely-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mikely-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mikely-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   
  </div>
  
   ##
   
  ```
-Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas - Universidade Estácio de Sá, 
-sou fascinada por tecnologia desde criança e atualmente tenho me dedicado a me tornar uma dev fullstack.
+Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, 
+Sou fascinada por tecnologia desde criança e atualmente tenho me dedicado a me tornar uma Desenvolvedora de Softwares.
 ```
     
   ![Snake animation](https://github.com/mikelybarboza/mikelybarboza/blob/output/github-contribution-grid-snake.svg)
