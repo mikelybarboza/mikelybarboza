@@ -29,8 +29,7 @@
   ##
   
  ```
-Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, 
-Sou fascinada por tecnologia desde criança e atualmente tenho me dedicado a me tornar uma Desenvolvedora de Softwares.
+Com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software, sou fascinada por tecnologia. Minha dedicação está centrada em me tornar uma Desenvolvedora de Softwares, combinando conhecimento teórico e prático para enfrentar os desafios da área com entusiasmo e inovação.
 ```
     
   ![Snake animation](https://github.com/mikelybarboza/mikelybarboza/blob/output/github-contribution-grid-snake.svg)
