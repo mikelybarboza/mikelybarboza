@@ -25,6 +25,13 @@
    
  </div>
  
+<br>
+
+<div  style="text-align: center">
+
+[![Mikely Barboza](https://github-readme-stats.vercel.app/api/top-langs/?username=MikelyBarboza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
   ##
   
  ```
